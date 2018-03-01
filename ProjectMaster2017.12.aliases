@@ -1,5 +1,5 @@
 [Mercury]
-Mercury = "172.22.11.2"
+Mercury = "192.168.1.116"
 
 [Messenger]
 Messenger = "172.22.11.10"

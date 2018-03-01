@@ -1,9 +1,9 @@
 [Mercury]
-Mercury = "192.168.1.116"
+Mercury = "192.168.43.117"
 
 [Messenger]
 Messenger = "172.22.11.10"
 
 [My Computer]
-My Computer = "10.231.55.10"
+My Computer = "10.183.21.31"
 
